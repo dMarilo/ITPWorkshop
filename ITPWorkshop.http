@@ -1,0 +1,6 @@
+@ITPWorkshop_HostAddress = http://localhost:5048
+
+GET {{ITPWorkshop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
